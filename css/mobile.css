@@ -1,0 +1,112 @@
+@media (max-width: 768px) {
+.banner-text h1{
+  font-size: 24px;
+}
+  .nav-image {
+    display: none;
+  }
+  #nav-bar a:link,
+  a:visited {
+    display: block;
+    border: none;
+    text-align: left;
+    margin-left: 5rem;
+  }
+  .about {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  #target {
+    height: 100%;
+  }
+  #personal-info {
+    height: 100%;
+    padding: 15px;
+  }
+
+  .list-inline-1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .section-content {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .container1 {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .introduce1,
+  .introduce2,
+  .introduce3,
+  .introduce4,
+  .introduce5,
+  .introduce6 {
+    height: auto;
+  }
+
+  .section-inner,
+  .section-inner-1,
+  .section-inner-2 {
+    border: none;
+    display: grid;
+    padding-left: 0px;
+  }
+ 
+  .section-inner-1 {
+    border-bottom: 1px solid burlywood;
+    border-top: 1px solid burlywood;
+    padding-top: 30px;
+  }
+  #job-info {
+    padding-left: 0px;
+  
+  }
+
+  .inner div,
+  .inner p {
+    padding-left: 0px;
+  }
+  .container-1 img {
+    width: 100%;
+  }
+  .container-1 {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  .introduce2 {
+    height: 100%;
+  }
+  .introduce4 {
+    margin-top: 0vh;
+    margin-bottom: 0vh;
+  }
+  .introduce5 {
+    height: 100%;
+  }
+  .introduce6 {
+    margin-top: 0vh;
+    margin-bottom: 0vh;
+  }
+  #certificate {
+    padding-left: 20px;
+    padding-right: 10px;
+  }
+  .section-content{
+    display: block;
+
+  }
+  #certificate img {
+    width: 100%;
+  }
+  #project {
+    padding: 20px;
+  }
+  .link-web 
+  .link{
+    display: none;
+  }
+ 
+}
