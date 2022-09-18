@@ -21,14 +21,14 @@
     grid-template-columns: 300px 300px;
   }
   .introduce2 {
-    height: 145vh;
+      height: 70%;
   }
   .introduce4 {
-    margin-top: -55vh;
+    margin-top: -60%;
     margin-bottom: 50vh;
   }
   .introduce5 {
-    height: 80vh;
+   height: 80%;;
   }
   .introduce6 {
     margin-top: -50vh;
