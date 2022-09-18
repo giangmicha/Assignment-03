@@ -295,13 +295,13 @@ ul span {
 
 .container-1 {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 260px 260px 255px;
   /* justify-content: center; */
   gap: 10px;
 }
 
 .container-1 img {
-  width: 310px;
+  width: 260px;
 }
 .project-container {
   display: grid;
